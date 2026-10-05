@@ -226,3 +226,5 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 >>>>>>> 4b2ed3e996ff4db7eedfa967cea52d0dc6643bb3
+
+.DS_Store
